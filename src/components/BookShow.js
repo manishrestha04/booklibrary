@@ -42,7 +42,7 @@ function BookShow ({ book, onDelete, onEdit }) {
     </div> 
 )}
 
-export default BookShow;
+export default BookShow; 
 
 import { useState } from 'react';
 import BookEdit from './BookEdit';
